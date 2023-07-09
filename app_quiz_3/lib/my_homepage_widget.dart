@@ -9,13 +9,13 @@ class MyHomePageWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         home: Scaffold(
-      backgroundColor: Colors.lightBlueAccent,
+      // backgroundColor: Colors.lightBlueAccent,
       body: Container(
         decoration: const BoxDecoration(
           gradient: LinearGradient(
               begin: Alignment.bottomCenter,
               end: Alignment.topRight,
-              colors: [Colors.lightBlue, Colors.limeAccent]),
+              colors: [Colors.purple, Colors.deepPurple]),
         ),
         child: const Center(
           child: MyHomePageContent(),
