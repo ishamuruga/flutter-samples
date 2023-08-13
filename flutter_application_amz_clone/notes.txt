@@ -1,0 +1,21 @@
+https://youtu.be/ylJz7N-dv1E?t=554
+https://youtu.be/ylJz7N-dv1E?t=954
+https://youtu.be/ylJz7N-dv1E?t=3979
+https://youtu.be/ylJz7N-dv1E?t=8708
+https://youtu.be/ylJz7N-dv1E?t=8947
+
+
+https://github.com/RivaanRanawat/flutter-amazon-clone-tutorial/blob/master/lib/constants/global_variables.dart
+
+
+
+165+125
+
+
+https://linuxhint.com/install_mongodb_ubuntu/
+
+
+cd /home/harshaabi/work/mongodb/bin
+./mongod --dbpath /home/harshaabi/work/mongodb/data &
+
+mongodb://localhost:27017

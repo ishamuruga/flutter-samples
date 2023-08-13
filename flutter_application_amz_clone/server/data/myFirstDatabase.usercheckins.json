@@ -1,0 +1,663 @@
+[{
+  "_id": {
+    "$oid": "6342b94dd91c3a155388e7ea"
+  },
+  "userId": "abx",
+  "name": "ankurtest",
+  "email": "shekhar@shareyourhr.com",
+  "longitude": "123",
+  "latitude": "134",
+  "checkedin_at": {
+    "$date": "2022-10-09T12:06:37.456Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T12:06:37.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c0a1a760a35494546133"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "-122.084",
+  "latitude": "37.4219983",
+  "checkedin_at": {
+    "$date": "2022-10-09T12:37:53.582Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T12:37:53.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c0d5a760a35494546136"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "-122.084",
+  "latitude": "37.4219983",
+  "checkedin_at": {
+    "$date": "2022-10-09T12:38:45.738Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T12:38:45.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c0d9a760a35494546138"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "-122.084",
+  "latitude": "37.4219983",
+  "checkedin_at": {
+    "$date": "2022-10-09T12:38:49.917Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T12:38:49.917Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c185a760a3549454613a"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "-122.084",
+  "latitude": "37.4219983",
+  "checkedin_at": {
+    "$date": "2022-10-09T12:41:41.349Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T12:41:41.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c1d7a760a3549454613c"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "-122.084",
+  "latitude": "37.4219983",
+  "checkedin_at": {
+    "$date": "2022-10-09T12:43:03.800Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T12:43:03.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c1daa760a3549454613e"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "-122.084",
+  "latitude": "37.4219983",
+  "checkedin_at": {
+    "$date": "2022-10-09T12:43:06.014Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T12:43:06.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c1e7a760a35494546140"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "-122.084",
+  "latitude": "37.4219983",
+  "checkedin_at": {
+    "$date": "2022-10-09T12:43:19.638Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T12:43:19.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c1eba760a35494546142"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "-122.084",
+  "latitude": "37.4219983",
+  "checkedin_at": {
+    "$date": "2022-10-09T12:43:23.330Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T12:43:23.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c1f0a760a35494546144"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "-122.084",
+  "latitude": "37.4219983",
+  "checkedin_at": {
+    "$date": "2022-10-09T12:43:28.659Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T12:43:28.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c88c7c3fa94346c7054f"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "-122.084",
+  "latitude": "37.4219983",
+  "checkedin_at": {
+    "$date": "2022-10-09T13:11:40.927Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T13:11:40.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342c9d47c3fa94346c70552"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "72.6065922",
+  "latitude": "23.191859",
+  "checkedin_at": {
+    "$date": "2022-10-09T13:17:08.773Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T13:17:08.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342cbe07c3fa94346c70558"
+  },
+  "userId": "6342cbc67c3fa94346c70555",
+  "name": "shekhargmail",
+  "email": "shekhar.priyadarshi@gmail.com",
+  "longitude": "72.6331184",
+  "latitude": "23.1947731",
+  "checkedin_at": {
+    "$date": "2022-10-09T13:25:52.672Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T13:25:52.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342d61a7c3fa94346c7055f"
+  },
+  "userId": "6342d5e27c3fa94346c7055c",
+  "name": "Priyanka",
+  "email": "Priyanka@shareyourhr.com",
+  "longitude": "72.8165826",
+  "latitude": "19.4456766",
+  "checkedin_at": {
+    "$date": "2022-10-09T14:09:30.956Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T14:09:30.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342dc717c3fa94346c70562"
+  },
+  "userId": "6342754864fea2c2f52a0ea0",
+  "name": "ankur",
+  "email": "ankur@email.com",
+  "longitude": "72.6336423",
+  "latitude": "23.1962371",
+  "checkedin_at": {
+    "$date": "2022-10-09T14:36:33.315Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T14:36:33.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342e1fb7c3fa94346c70568"
+  },
+  "userId": "6342e1dc7c3fa94346c70565",
+  "name": "Diana Dias",
+  "email": "diana@shareyourhr.com",
+  "longitude": "72.8499709",
+  "latitude": "19.2473916",
+  "checkedin_at": {
+    "$date": "2022-10-09T15:00:11.748Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T15:00:11.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6342e37d7c3fa94346c70572"
+  },
+  "userId": "6342d5e27c3fa94346c7055c",
+  "name": "Priyanka",
+  "email": "Priyanka@shareyourhr.com",
+  "longitude": "72.8203741",
+  "latitude": "19.4453566",
+  "checkedin_at": {
+    "$date": "2022-10-09T15:06:37.033Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T15:06:37.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63430dd67c3fa94346c70578"
+  },
+  "userId": "63430dcb7c3fa94346c70575",
+  "name": "priti",
+  "email": "priti@gmail.com",
+  "longitude": "72.6331191",
+  "latitude": "23.1947585",
+  "checkedin_at": {
+    "$date": "2022-10-09T18:07:18.358Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-09T18:07:18.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6343a65d7c3fa94346c7057e"
+  },
+  "userId": "6343a64c7c3fa94346c7057b",
+  "name": "riddhi",
+  "email": "riddhij2@gmail.com",
+  "longitude": "72.6336074",
+  "latitude": "23.1962379",
+  "checkedin_at": {
+    "$date": "2022-10-10T04:58:05.954Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-10T04:58:05.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6343a6867c3fa94346c70582"
+  },
+  "userId": "6343a64c7c3fa94346c7057b",
+  "name": "riddhi",
+  "email": "riddhij2@gmail.com",
+  "longitude": "72.6335866",
+  "latitude": "23.1962277",
+  "checkedin_at": {
+    "$date": "2022-10-10T04:58:46.120Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-10T04:58:46.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6343b43e7c3fa94346c7058c"
+  },
+  "userId": "6343b4337c3fa94346c70589",
+  "name": "sameer",
+  "email": "sameer@yahoo.in",
+  "longitude": "-122.084",
+  "latitude": "37.421998333333335",
+  "checkedin_at": {
+    "$date": "2022-10-10T05:57:18.367Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-10T05:57:18.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6343b45f7c3fa94346c7058f"
+  },
+  "userId": "6343b4337c3fa94346c70589",
+  "name": "sameer",
+  "email": "sameer@yahoo.in",
+  "longitude": "-122.084",
+  "latitude": "37.421998333333335",
+  "checkedin_at": {
+    "$date": "2022-10-10T05:57:51.348Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-10T05:57:51.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6343b48c7c3fa94346c70591"
+  },
+  "userId": "6343b4337c3fa94346c70589",
+  "name": "sameer",
+  "email": "sameer@yahoo.in",
+  "longitude": "-122.084",
+  "latitude": "37.421998333333335",
+  "checkedin_at": {
+    "$date": "2022-10-10T05:58:36.336Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-10T05:58:36.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6347b8897c3fa94346c70594"
+  },
+  "userId": "6342d5e27c3fa94346c7055c",
+  "name": "Priyanka",
+  "email": "Priyanka@shareyourhr.com",
+  "longitude": "73.0185278",
+  "latitude": "19.0209206",
+  "checkedin_at": {
+    "$date": "2022-10-13T07:04:41.534Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-13T07:04:41.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6347bc447c3fa94346c7059b"
+  },
+  "userId": "6347ba637c3fa94346c70598",
+  "name": "shekhar",
+  "email": "shekhar@shareyourhr.in",
+  "longitude": "-122.084",
+  "latitude": "37.421998333333335",
+  "checkedin_at": {
+    "$date": "2022-10-13T07:20:36.287Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-13T07:20:36.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6347f62c7c3fa94346c705a1"
+  },
+  "userId": "6347f61c7c3fa94346c7059e",
+  "name": "austin",
+  "email": "austin@gmail.com",
+  "longitude": "-122.084",
+  "latitude": "37.421998333333335",
+  "checkedin_at": {
+    "$date": "2022-10-13T11:27:40.305Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-13T11:27:40.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "639327a77c3fa94346c705a8"
+  },
+  "userId": "639327737c3fa94346c705a5",
+  "name": "ankur",
+  "email": "ankur@email.comm",
+  "longitude": "72.6334367",
+  "latitude": "23.1962772",
+  "checkedin_at": {
+    "$date": "2022-12-09T12:18:47.105Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-09T12:18:47.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640c21217c3fa94346c705b6"
+  },
+  "userId": "640c20f87c3fa94346c705b3",
+  "name": "shek",
+  "email": "info@preeshe.com",
+  "longitude": "72.6334924",
+  "latitude": "23.1962739",
+  "checkedin_at": {
+    "$date": "2023-03-11T06:35:13.931Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-11T06:35:13.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640c289a7c3fa94346c705b8"
+  },
+  "userId": "640c20f87c3fa94346c705b3",
+  "name": "shek",
+  "email": "info@preeshe.com",
+  "longitude": "72.6335017",
+  "latitude": "23.196293",
+  "checkedin_at": {
+    "$date": "2023-03-11T07:07:06.434Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-11T07:07:06.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640c28ed7c3fa94346c705bb"
+  },
+  "userId": "640c20f87c3fa94346c705b3",
+  "name": "shek",
+  "email": "info@preeshe.com",
+  "longitude": "72.6335056",
+  "latitude": "23.1962902",
+  "checkedin_at": {
+    "$date": "2023-03-11T07:08:29.196Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-11T07:08:29.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641070027c3fa94346c705be"
+  },
+  "userId": "640c20f87c3fa94346c705b3",
+  "name": "shek",
+  "email": "info@preeshe.com",
+  "longitude": "72.6335026",
+  "latitude": "23.1963089",
+  "checkedin_at": {
+    "$date": "2023-03-14T13:00:50.928Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-14T13:00:50.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642405226ad1bf9fa9d71f67"
+  },
+  "userId": "6424050a6ad1bf9fa9d71f64",
+  "name": "user",
+  "email": "user@gmail.com",
+  "longitude": "72.6335198",
+  "latitude": "23.1963261",
+  "checkedin_at": {
+    "$date": "2023-03-29T09:30:10.074Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T09:30:10.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6424054e6ad1bf9fa9d71f69"
+  },
+  "userId": "6424050a6ad1bf9fa9d71f64",
+  "name": "user",
+  "email": "user@gmail.com",
+  "longitude": "72.6335374",
+  "latitude": "23.1962813",
+  "checkedin_at": {
+    "$date": "2023-03-29T09:30:54.020Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T09:30:54.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642405f06ad1bf9fa9d71f6c"
+  },
+  "userId": "6424050a6ad1bf9fa9d71f64",
+  "name": "user",
+  "email": "user@gmail.com",
+  "longitude": "72.6334928",
+  "latitude": "23.1963037",
+  "checkedin_at": {
+    "$date": "2023-03-29T09:33:36.144Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T09:33:36.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642406376ad1bf9fa9d71f6f"
+  },
+  "userId": "642404bc6ad1bf9fa9d71f60",
+  "name": "patel",
+  "email": "pt569419@gmail.com",
+  "longitude": "72.633481",
+  "latitude": "23.1962959",
+  "checkedin_at": {
+    "$date": "2023-03-29T09:34:47.379Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T09:34:47.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64242248513bf45df087ad85"
+  },
+  "userId": "6424050a6ad1bf9fa9d71f64",
+  "name": "user",
+  "email": "user@gmail.com",
+  "longitude": "72.6334933",
+  "latitude": "23.1962985",
+  "checkedin_at": {
+    "$date": "2023-03-29T11:34:32.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T11:34:32.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64242400513bf45df087ad87"
+  },
+  "userId": "6424050a6ad1bf9fa9d71f64",
+  "name": "user",
+  "email": "user@gmail.com",
+  "longitude": "72.6336525",
+  "latitude": "23.1963096",
+  "checkedin_at": {
+    "$date": "2023-03-29T11:41:52.615Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-29T11:41:52.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64255c153fd73fda8715ffcf"
+  },
+  "userId": "6424050a6ad1bf9fa9d71f64",
+  "name": "user",
+  "email": "user@gmail.com",
+  "longitude": "72.6334804",
+  "latitude": "23.1962835",
+  "checkedin_at": {
+    "$date": "2023-03-30T09:53:25.261Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T09:53:25.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64255c183fd73fda8715ffd1"
+  },
+  "userId": "6424050a6ad1bf9fa9d71f64",
+  "name": "user",
+  "email": "user@gmail.com",
+  "longitude": "72.6334804",
+  "latitude": "23.1962835",
+  "checkedin_at": {
+    "$date": "2023-03-30T09:53:28.352Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-30T09:53:28.352Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,668 @@
+[{
+  "_id": {
+    "$oid": "627bfa025d1c9db5fa9456f5"
+  },
+  "name": "MacBook Air M1",
+  "description": "This is a good MacBook, I use this!",
+  "images": [
+    "https://res.cloudinary.com/denfgaxvg/image/upload/v1652292096/MacBook%20Air%20M1/j6a2mlcvxaklpz6tyvni.jpg",
+    "https://res.cloudinary.com/denfgaxvg/image/upload/v1652292096/MacBook%20Air%20M1/iwt3eqzjr4fak5hjly7t.jpg",
+    "https://res.cloudinary.com/denfgaxvg/image/upload/v1652292097/MacBook%20Air%20M1/dgodzjfusplnygvzcyjz.jpg"
+  ],
+  "quantity": 4,
+  "price": 999,
+  "category": "Appliances",
+  "__v": 24,
+  "ratings": [
+    {
+      "userId": "627e03d7d45aaeba41d85eca",
+      "rating": 1.5,
+      "_id": {
+        "$oid": "627e03edd45aaeba41d85ed7"
+      }
+    },
+    {
+      "userId": "633dfb600bb2f8b20a666817",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "633dfbeb0bb2f8b20a6669bf"
+      }
+    },
+    {
+      "userId": "6349a5be19305fbb6c1b5c9c",
+      "rating": 4,
+      "_id": {
+        "$oid": "634c10873c35737dbad2ea16"
+      }
+    },
+    {
+      "userId": "636162042106ca3c884c9ffd",
+      "rating": 2,
+      "_id": {
+        "$oid": "636162482106ca3c884ca012"
+      }
+    },
+    {
+      "userId": "637b75d39581bf3ca9bacec1",
+      "rating": 4,
+      "_id": {
+        "$oid": "637b775a9581bf3ca9bacf22"
+      }
+    },
+    {
+      "userId": "63baf1d755530a4c5240c3af",
+      "rating": 5,
+      "_id": {
+        "$oid": "63baf23155530a4c5240c3bd"
+      }
+    },
+    {
+      "userId": "6444eb9ea4145b5e2895ff58",
+      "rating": 5,
+      "_id": {
+        "$oid": "6444ebdea4145b5e2895ff63"
+      }
+    },
+    {
+      "userId": "64606ff5b82173ef1ac96fbe",
+      "rating": 3.5,
+      "_id": {
+        "$oid": "6460a394b82173ef1ac97010"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "634bb20c3c35737dbad2e9d9"
+  },
+  "name": "Chess T.V",
+  "description": "Get a 76 inches chess TV and show off to family and friends. Beautify your home with this powerful electronic.",
+  "images": [
+    "https://res.cloudinary.com/ajo-app/image/upload/v1665905163/Chess%20T.V/ogzg38cfly9kxhrz5pa1.jpg"
+  ],
+  "quantity": 1,
+  "price": 1200,
+  "category": "Appliances",
+  "ratings": [
+    {
+      "userId": "6383e05edfd3216d9bd5341e",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "6426993d219efd1dfc29d444"
+      }
+    },
+    {
+      "userId": "643fc44cb3d6a9bbebdba493",
+      "rating": 4,
+      "_id": {
+        "$oid": "643fc685b3d6a9bbebdba74b"
+      }
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "634bc3c78ab263394ff54e06"
+  },
+  "name": "MacBook Air M1",
+  "description": "This is a good MacBook, I use this!",
+  "images": [
+    "https://res.cloudinary.com/denfgaxvg/image/upload/v1652292096/MacBook%20Air%20M1/j6a2mlcvxaklpz6tyvni.jpg",
+    "https://res.cloudinary.com/denfgaxvg/image/upload/v1652292096/MacBook%20Air%20M1/iwt3eqzjr4fak5hjly7t.jpg",
+    "https://res.cloudinary.com/denfgaxvg/image/upload/v1652292097/MacBook%20Air%20M1/dgodzjfusplnygvzcyjz.jpg"
+  ],
+  "quantity": 4,
+  "price": 999,
+  "category": "Appliances",
+  "__v": 5,
+  "ratings": [
+    {
+      "userId": "627e03d7d45aaeba41d85eca",
+      "rating": 1.5,
+      "_id": {
+        "$oid": "627e03edd45aaeba41d85ed7"
+      }
+    },
+    {
+      "userId": "633dfb600bb2f8b20a666817",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "633dfbeb0bb2f8b20a6669bf"
+      }
+    },
+    {
+      "userId": "6444eb9ea4145b5e2895ff58",
+      "rating": 5,
+      "_id": {
+        "$oid": "6444ebe8a4145b5e2895ff69"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "634bc3cc8ab263394ff54e07"
+  },
+  "name": "stainless steel bottle",
+  "description": "this is stainless steel",
+  "images": [
+    "https://res.cloudinary.com/denfgaxvg/image/upload/v1652292177/stainless%20steel%20bottle/efefdlvwbhpc2h4ujje4.jpg"
+  ],
+  "quantity": 12,
+  "price": 10,
+  "category": "Essentials",
+  "__v": 89,
+  "ratings": [
+    {
+      "userId": "627a8d0f836fa9ec553866c1",
+      "rating": 5,
+      "_id": {
+        "$oid": "627ce89b39db25700a9208e7"
+      }
+    },
+    {
+      "userId": "6288c3add0307ecfa7e33145",
+      "rating": 5,
+      "_id": {
+        "$oid": "6288c3e0d0307ecfa7e3315c"
+      }
+    },
+    {
+      "userId": "629dc82b624d5442f241386c",
+      "rating": 1,
+      "_id": {
+        "$oid": "629dca0b624d5442f24138b9"
+      }
+    },
+    {
+      "userId": "629e260ab4cf5a6cd65b64c9",
+      "rating": 3.5,
+      "_id": {
+        "$oid": "629e264eb4cf5a6cd65b64e8"
+      }
+    },
+    {
+      "userId": "62a1a4b79f136e3b2242fe5f",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "62a1a6c79f136e3b2242fe76"
+      }
+    },
+    {
+      "userId": "62a82469435ce0be402d8183",
+      "rating": 4,
+      "_id": {
+        "$oid": "62b047bcf425e7f221a269bd"
+      }
+    },
+    {
+      "userId": "62b40a4d52a874342a3efaa6",
+      "rating": 1,
+      "_id": {
+        "$oid": "62b40b1a52a874342a3efaf0"
+      }
+    },
+    {
+      "userId": "62bf4b26c0119a9333898e67",
+      "rating": 1,
+      "_id": {
+        "$oid": "62bf4b3dc0119a9333898e87"
+      }
+    },
+    {
+      "userId": "62c4dfaea88df48bca2b8ce8",
+      "rating": 1,
+      "_id": {
+        "$oid": "62c4dfeaa88df48bca2b8d13"
+      }
+    },
+    {
+      "userId": "628b9a918e93f0e23bd10a5b",
+      "rating": 2,
+      "_id": {
+        "$oid": "62e681c8fb9f9be68bbe701b"
+      }
+    },
+    {
+      "userId": "62e583d8b2c4e1e3bbbaf9e0",
+      "rating": 4,
+      "_id": {
+        "$oid": "62eaa4f45d404841e2b1c7ed"
+      }
+    },
+    {
+      "userId": "63160aba7d62719c3f0a198a",
+      "rating": 3.5,
+      "_id": {
+        "$oid": "63160ae17d62719c3f0a19ab"
+      }
+    },
+    {
+      "userId": "629aeda275d030e0f1659a3f",
+      "rating": 5,
+      "_id": {
+        "$oid": "631742517b883e0bf096693b"
+      }
+    },
+    {
+      "userId": "631b9f88e75487b84ce20e85",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "631ba041e75487b84ce20f35"
+      }
+    },
+    {
+      "userId": "633937400701b4356eee7712",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "633937510701b4356eee772f"
+      }
+    },
+    {
+      "userId": "633dfb600bb2f8b20a666817",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "633dfba60bb2f8b20a6669a5"
+      }
+    },
+    {
+      "userId": "633ead17cb64a43879c3ad27",
+      "rating": 4,
+      "_id": {
+        "$oid": "633ead3ecb64a43879c3ad61"
+      }
+    },
+    {
+      "userId": "63477da98caf3e4cf226fcb9",
+      "rating": 3.5,
+      "_id": {
+        "$oid": "6347e7938caf3e4cf226fd4f"
+      }
+    },
+    {
+      "userId": "6383e05edfd3216d9bd5341e",
+      "rating": 5,
+      "_id": {
+        "$oid": "6383e34a5e94af89dc8b6d17"
+      }
+    },
+    {
+      "userId": "643f1d08d64244788b289c86",
+      "rating": 5,
+      "_id": {
+        "$oid": "643f1d6ad64244788b289cda"
+      }
+    },
+    {
+      "userId": "643f1de4d64244788b289d0c",
+      "rating": 1,
+      "_id": {
+        "$oid": "643f66cad64244788b289d94"
+      }
+    },
+    {
+      "userId": "6477777db842b0a236ef5636",
+      "rating": 3,
+      "_id": {
+        "$oid": "64777c804001b1ffca149494"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "634bc3d78ab263394ff54e09"
+  },
+  "name": "stainless steel bottle",
+  "description": "this is stainless steel",
+  "images": [
+    "https://res.cloudinary.com/denfgaxvg/image/upload/v1652292177/stainless%20steel%20bottle/efefdlvwbhpc2h4ujje4.jpg"
+  ],
+  "quantity": 10,
+  "price": 10,
+  "category": "Essentials",
+  "__v": 127,
+  "ratings": [
+    {
+      "userId": "627a8d0f836fa9ec553866c1",
+      "rating": 5,
+      "_id": {
+        "$oid": "627ce89b39db25700a9208e7"
+      }
+    },
+    {
+      "userId": "6288c3add0307ecfa7e33145",
+      "rating": 5,
+      "_id": {
+        "$oid": "6288c3e0d0307ecfa7e3315c"
+      }
+    },
+    {
+      "userId": "629dc82b624d5442f241386c",
+      "rating": 1,
+      "_id": {
+        "$oid": "629dca0b624d5442f24138b9"
+      }
+    },
+    {
+      "userId": "629e260ab4cf5a6cd65b64c9",
+      "rating": 3.5,
+      "_id": {
+        "$oid": "629e264eb4cf5a6cd65b64e8"
+      }
+    },
+    {
+      "userId": "62a1a4b79f136e3b2242fe5f",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "62a1a6c79f136e3b2242fe76"
+      }
+    },
+    {
+      "userId": "62a82469435ce0be402d8183",
+      "rating": 4,
+      "_id": {
+        "$oid": "62b047bcf425e7f221a269bd"
+      }
+    },
+    {
+      "userId": "62b40a4d52a874342a3efaa6",
+      "rating": 1,
+      "_id": {
+        "$oid": "62b40b1a52a874342a3efaf0"
+      }
+    },
+    {
+      "userId": "62bf4b26c0119a9333898e67",
+      "rating": 1,
+      "_id": {
+        "$oid": "62bf4b3dc0119a9333898e87"
+      }
+    },
+    {
+      "userId": "62c4dfaea88df48bca2b8ce8",
+      "rating": 1,
+      "_id": {
+        "$oid": "62c4dfeaa88df48bca2b8d13"
+      }
+    },
+    {
+      "userId": "628b9a918e93f0e23bd10a5b",
+      "rating": 2,
+      "_id": {
+        "$oid": "62e681c8fb9f9be68bbe701b"
+      }
+    },
+    {
+      "userId": "62e583d8b2c4e1e3bbbaf9e0",
+      "rating": 4,
+      "_id": {
+        "$oid": "62eaa4f45d404841e2b1c7ed"
+      }
+    },
+    {
+      "userId": "63160aba7d62719c3f0a198a",
+      "rating": 3.5,
+      "_id": {
+        "$oid": "63160ae17d62719c3f0a19ab"
+      }
+    },
+    {
+      "userId": "629aeda275d030e0f1659a3f",
+      "rating": 5,
+      "_id": {
+        "$oid": "631742517b883e0bf096693b"
+      }
+    },
+    {
+      "userId": "631b9f88e75487b84ce20e85",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "631ba041e75487b84ce20f35"
+      }
+    },
+    {
+      "userId": "633937400701b4356eee7712",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "633937510701b4356eee772f"
+      }
+    },
+    {
+      "userId": "633dfb600bb2f8b20a666817",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "633dfba60bb2f8b20a6669a5"
+      }
+    },
+    {
+      "userId": "633ead17cb64a43879c3ad27",
+      "rating": 4,
+      "_id": {
+        "$oid": "633ead3ecb64a43879c3ad61"
+      }
+    },
+    {
+      "userId": "63477da98caf3e4cf226fcb9",
+      "rating": 3.5,
+      "_id": {
+        "$oid": "6347e7938caf3e4cf226fd4f"
+      }
+    },
+    {
+      "userId": "636eb9638ed11b5c7242adf9",
+      "rating": 5,
+      "_id": {
+        "$oid": "636eba928ed11b5c7242ae1d"
+      }
+    },
+    {
+      "userId": "6376f1af334964254623b1d1",
+      "rating": 5,
+      "_id": {
+        "$oid": "6376f1c9334964254623b1d7"
+      }
+    },
+    {
+      "userId": "63baf1d755530a4c5240c3af",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "63baf29a55530a4c5240c3d2"
+      }
+    },
+    {
+      "userId": "63c2a1a087088a7bf7a5914e",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "63c2a23687088a7bf7a59571"
+      }
+    },
+    {
+      "userId": "63d584974b6a1531599455ce",
+      "rating": 4,
+      "_id": {
+        "$oid": "63d7eed2cd340d45d00e89ce"
+      }
+    },
+    {
+      "userId": "63d584974b6a1531599455ce",
+      "rating": 5,
+      "_id": {
+        "$oid": "63d7eed2cd340d45d00e89d0"
+      }
+    },
+    {
+      "userId": "63d584974b6a1531599455ce",
+      "rating": 4,
+      "_id": {
+        "$oid": "63d7eed2cd340d45d00e89d4"
+      }
+    },
+    {
+      "userId": "63d584974b6a1531599455ce",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "63d7eed3cd340d45d00e89de"
+      }
+    },
+    {
+      "userId": "63d584974b6a1531599455ce",
+      "rating": 5,
+      "_id": {
+        "$oid": "63d7eed3cd340d45d00e89e0"
+      }
+    },
+    {
+      "userId": "63da0a30cc2a1407d9eb2aba",
+      "rating": 5,
+      "_id": {
+        "$oid": "63da0a55cc2a1407d9eb2afe"
+      }
+    },
+    {
+      "userId": "63e370c5e84978edf4dcd714",
+      "rating": 5,
+      "_id": {
+        "$oid": "63e37268e84978edf4dcd79e"
+      }
+    },
+    {
+      "userId": "6407cafbfc94da318767ff88",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "6407cb46fc94da318767ffb6"
+      }
+    },
+    {
+      "userId": "6383e05edfd3216d9bd5341e",
+      "rating": 4,
+      "_id": {
+        "$oid": "64269512cb118e596c9241e6"
+      }
+    },
+    {
+      "userId": "643c330df7ce3673f35f0d9b",
+      "rating": 1.5,
+      "_id": {
+        "$oid": "643c33f4f7ce3673f35f0e1e"
+      }
+    },
+    {
+      "userId": "643fc44cb3d6a9bbebdba493",
+      "rating": 4,
+      "_id": {
+        "$oid": "643fc5b7b3d6a9bbebdba618"
+      }
+    },
+    {
+      "userId": "64903406d317e575924da9be",
+      "rating": 5,
+      "_id": {
+        "$oid": "64903429d317e575924daa21"
+      }
+    },
+    {
+      "userId": "649373938c08d6e310159fa2",
+      "rating": 4,
+      "_id": {
+        "$oid": "649373d78c08d6e310159fe3"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6352230c8f1d40bec112998d"
+  },
+  "name": "rdtwreyw",
+  "description": "rewyryerty5345rtsw5",
+  "images": [
+    "https://res.cloudinary.com/denfgaxvg/image/upload/v1666327307/rdtwreyw/kajrc2ozhc6rvsdrtanv.jpg"
+  ],
+  "quantity": 97,
+  "price": 10,
+  "category": "Mobiles",
+  "ratings": [
+    {
+      "userId": "6383e05edfd3216d9bd5341e",
+      "rating": 5,
+      "_id": {
+        "$oid": "6385b884dcc046e3e0aab978"
+      }
+    }
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "635223178f1d40bec1129990"
+  },
+  "name": "rdtwreyw",
+  "description": "rewyryerty5345rtsw5",
+  "images": [
+    "https://res.cloudinary.com/denfgaxvg/image/upload/v1666327318/rdtwreyw/gqlvemb6blcpzfy1gp2w.jpg"
+  ],
+  "quantity": 100,
+  "price": 10,
+  "category": "Mobiles",
+  "ratings": [
+    {
+      "userId": "6383e05edfd3216d9bd5341e",
+      "rating": 5,
+      "_id": {
+        "$oid": "6383e40d5e94af89dc8b6dc0"
+      }
+    },
+    {
+      "userId": "63b64813f1185cff777fcfb8",
+      "rating": 4,
+      "_id": {
+        "$oid": "63b648b4f1185cff777fcfd1"
+      }
+    },
+    {
+      "userId": "643fc44cb3d6a9bbebdba493",
+      "rating": 5,
+      "_id": {
+        "$oid": "643fc545b3d6a9bbebdba49e"
+      }
+    }
+  ],
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "635223b08f1d40bec11299a4"
+  },
+  "name": "rdtwers",
+  "description": "dgasrdfhfgjseht534",
+  "images": [
+    "/Users/mac/Library/Developer/CoreSimulator/Devices/0013FA72-78EC-4165-B669-890A720DD9E3/data/Containers/Data/Application/61BD1C29-1FC4-4260-8453-AF00F63482EE/tmp/IMG_0005.jpeg"
+  ],
+  "quantity": 100,
+  "price": 100,
+  "category": "Appliances",
+  "ratings": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6409c291f0a67decf3f54938"
+  },
+  "name": "Floral Print Slim Fit Shirt",
+  "description": "Introducing the must-have addition to your wardrobe - the Floral Print Slim Fit Shirt! Crafted with precision and passion, this shirt is the epitome of style and sophistication. Featuring a vibrant floral print, this shirt is sure to turn heads and make you stand out from the crowd. The intricate pattern is complemented by a slim fit design, which accentuates your figure and ensures a comfortable fit. Made from high-quality materials, this shirt is both durable and lightweight, allowing you to wear it all day long without feeling weighed down. The breathable fabric ensures that you stay cool and comfortable, no matter the temperature. The attention to detail is evident in every stitch, from the button-down collar to the elegant button placket. The shirt also boasts a versatile design, making it perfect for a variety of occasions, from casual outings to formal events. Pair this Floral Print Slim Fit Shirt with your favorite jeans or trousers for a stylish and polished look. It's time to upgrade your wardrobe and add some flair with this stunning shirt. Order yours today and experience the perfect combination of style and comfort!",
+  "images": [
+    "https://res.cloudinary.com/kunu01/image/upload/v1677132549/tshirt%20man/1/i1olf6229qdz4fmpqjjd.jpg",
+    "https://res.cloudinary.com/kunu01/image/upload/v1677132563/tshirt%20man/1/fll1bdoh2psjohxmd0rm.jpg",
+    "https://res.cloudinary.com/kunu01/image/upload/v1677132564/tshirt%20man/1/ihtinnmoxcmfflalzihl.jpg",
+    "https://res.cloudinary.com/kunu01/image/upload/v1677132564/tshirt%20man/1/pzauxh5h88rxhnippf08.jpg",
+    "https://res.cloudinary.com/kunu01/image/upload/v1677132564/tshirt%20man/1/akncbtql0df4px8ptrze.jpg"
+  ],
+  "quantity": 500,
+  "price": 1999,
+  "category": "T-shirt Man",
+  "ratings": [],
+  "__v": 0
+}]

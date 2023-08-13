@@ -1,0 +1,1 @@
+enum AuthNamedConstants { signin, signup }
