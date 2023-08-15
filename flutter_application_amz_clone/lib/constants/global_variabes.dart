@@ -18,6 +18,8 @@ class GlobalVariables {
   static const unselectedNavBarColor = Colors.black87;
 
   static const routeName_authScreen = '/auth-screen';
+  static const routeName_homeScreen = '/home-screen';
+  static const routeName_bottombarScreen = '/actual-home-screen';
 
   static const String uri = 'http://localhost:3000';
 }

@@ -1,9 +1,14 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_application_amz_clone/constants/error_handling.dart';
 import 'package:flutter_application_amz_clone/constants/global_variabes.dart';
 import 'package:flutter_application_amz_clone/constants/utils.dart';
 import 'package:flutter_application_amz_clone/models/user.dart';
+import 'package:flutter_application_amz_clone/providers/user_provider.dart';
 import 'package:http/http.dart' as http;
+import 'package:provider/provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class AuthService {
   void signUpUser(
@@ -54,7 +59,7 @@ class AuthService {
   }) async {
     try {
       http.Response res = await http.post(
-        Uri.parse('$uri/api/signin'),
+        Uri.parse('${GlobalVariables.uri}/api/signin'),
         body: jsonEncode({
           'email': email,
           'password': password,
@@ -63,18 +68,29 @@ class AuthService {
           'Content-Type': 'application/json; charset=UTF-8',
         },
       );
+      // ignore: use_build_context_synchronously
       httpResponseHandle(
         response: res,
         context: context,
         onSuccess: () async {
           SharedPreferences prefs = await SharedPreferences.getInstance();
+          // ignore: use_build_context_synchronously
           Provider.of<UserProvider>(context, listen: false).setUser(res.body);
           await prefs.setString('x-auth-token', jsonDecode(res.body)['token']);
+
+          // ignore: use_build_context_synchronously
           Navigator.pushNamedAndRemoveUntil(
             context,
-            BottomBar.routeName,
+            GlobalVariables.routeName_homeScreen,
             (route) => false,
           );
+
+          // ignore: use_build_context_synchronously
+          // Navigator.pushNamedAndRemoveUntil(
+          //   context,
+          //   BottomBar.routeName,
+          //   (route) => false,
+          // );
         },
       );
     } catch (e) {
@@ -95,7 +111,7 @@ class AuthService {
       }
 
       var tokenRes = await http.post(
-        Uri.parse('$uri/tokenIsValid'),
+        Uri.parse('${GlobalVariables.uri}/tokenIsValid'),
         headers: <String, String>{
           'Content-Type': 'application/json; charset=UTF-8',
           'x-auth-token': token!
@@ -106,13 +122,12 @@ class AuthService {
 
       if (response == true) {
         http.Response userRes = await http.get(
-          Uri.parse('$uri/'),
+          Uri.parse('${GlobalVariables.uri}/'),
           headers: <String, String>{
             'Content-Type': 'application/json; charset=UTF-8',
             'x-auth-token': token
           },
         );
-
         var userProvider = Provider.of<UserProvider>(context, listen: false);
         userProvider.setUser(userRes.body);
       }

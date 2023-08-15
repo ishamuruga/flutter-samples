@@ -3,6 +3,7 @@ https://youtu.be/ylJz7N-dv1E?t=954
 https://youtu.be/ylJz7N-dv1E?t=3979
 https://youtu.be/ylJz7N-dv1E?t=8708
 https://youtu.be/ylJz7N-dv1E?t=8947
+https://youtu.be/ylJz7N-dv1E?t=12965
 
 
 https://github.com/RivaanRanawat/flutter-amazon-clone-tutorial/blob/master/lib/constants/global_variables.dart

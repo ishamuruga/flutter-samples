@@ -10,6 +10,7 @@ void httpResponseHandle(
     required VoidCallback onSuccess}) {
   switch (response.statusCode) {
     case 200:
+      print(response.body);
       onSuccess();
       showSnackBar(context, 'Data Persisted Sucessfully');
       break;
